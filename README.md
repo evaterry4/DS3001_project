@@ -1,5 +1,7 @@
 # DS3001_project
 
+Student outcomes (graduation rate, income)
+
 People: Lily England
 
 Data Wrangling/EDA Tasks: 
