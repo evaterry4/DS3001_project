@@ -16,9 +16,9 @@ The College Scorecard 2022-2023 dataset provides detailed information on higher 
 | ACTCMMID   | Midpoint of the 25th and 75th percentile ACT cumulative scores   | Numeric   |
 | ADM_RATE   | Admission rate   | Numeric   |
 | C150_4   | Completion rate for first-time, full-time students at four-year institutions (students completing a 4-year degree within 150% of the expected time)| Numeric   |
-| CONTROL_PEPS   | desc   | type   |
-| COSTT4_A   | desc   | type   |
-| FAMINC   | desc   | type   |
+| CONTROL_PEPS   | Whether the institution’s governance structure is public, private nonprofit, or private for-profit | Categorical |
+| COSTT4_A   | Average cost of attendance (academic year institutions)   | Numeric |
+| FAMINC   | Average family income   | Numeric  |
 | FEMALE   | desc   | type   |
 | GRAD_DEBT_MDN_SUPP   | desc   | type   |
 | INSTNM   | desc   | type   |
