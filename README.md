@@ -24,7 +24,7 @@ The College Scorecard 2022-2023 dataset provides detailed information on higher 
 | INSTNM   | school name   | string   |
 | MD_EARN_WNE_4YR   | median earnings 4 years after completion   | numeric   |
 | PCTFLOAN_DCS_POOLED_SUPP   | DCS federal loan rate, pooled   | numeric   |
-| PCTPELL_DCS_POOLED_SUPP   | DCS pell grant rate pooled   | type   |
+| PCTPELL_DCS_POOLED_SUPP   | DCS pell grant rate pooled   | numeric   |
 | PPTUG_EF   |  part time share  | numeric  |
 | PREDDEG   |  predominant degrees awarded  | numeric   |
 | REGION   | region ID   | numeric   |
