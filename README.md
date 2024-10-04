@@ -19,20 +19,20 @@ The College Scorecard 2022-2023 dataset provides detailed information on higher 
 | CONTROL_PEPS   | Whether the institution’s governance structure is public, private nonprofit, or private for-profit | Categorical |
 | COSTT4_A   | Average cost of attendance (academic year institutions)   | Numeric |
 | FAMINC   | Average family income   | Numeric  |
-| FEMALE   | desc   | type   |
-| GRAD_DEBT_MDN_SUPP   | desc   | type   |
-| INSTNM   | desc   | type   |
-| MD_EARN_WNE_4YR   | desc   | type   |
-| PCTFLOAN_DCS_POOLED_SUPP   | desc   | type   |
-| PCTPELL_DCS_POOLED_SUPP   | desc   | type   |
-| PPTUG_EF   | desc   | type   |
-| PREDDEG   | desc   | type   |
-| REGION   | desc   | type   |
-| STABBR   | desc   | type   |
-| STUFCAR   | desc   | type   |
-| UG   | desc   | type   |
-| UNITID   | desc   | type   |
-| ZIP   | desc   | type   |
+| FEMALE   | female share   | numeric   |
+| GRAD_DEBT_MDN_SUPP   | overall median debt suppressed completers   | numeric   |
+| INSTNM   | school name   | string   |
+| MD_EARN_WNE_4YR   | median earnings 4 years after completion   | numeric   |
+| PCTFLOAN_DCS_POOLED_SUPP   | DCS federal loan rate, pooled   | numeric   |
+| PCTPELL_DCS_POOLED_SUPP   | DCS pell grant rate pooled   | type   |
+| PPTUG_EF   |  part time share  | numeric  |
+| PREDDEG   |  predominant degrees awarded  | numeric   |
+| REGION   | region ID   | numeric   |
+| STABBR   | state abbreviation   | string   |
+| STUFACR   | student faculty ratio   | numeric   |
+| UGDS   | Enrollment of undergraduate certificate/degree-seeking students| numeric   |
+| UNITID   | unit ID for institution   | numeric   |
+| ZIP   | school zip code   | string   |
 
 2. How will these data be useful for studying the phenomenon you're interested in? 
 
