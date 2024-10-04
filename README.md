@@ -35,6 +35,8 @@ The College Scorecard 2022-2023 dataset provides detailed information on higher 
 | ZIP   | desc   | type   |
 
 2. How will these data be useful for studying the phenomenon you're interested in? Selah
-3. What are the challenges you've resolved or expect to face in using them? Together
+  The College Scorecard 2022-2023 dataset  will help us investigate the question of whether college is a "scam" and what factors contribute to the perceived value of higher education. Comparing MD_EARN_WNE_4YR against tuition costs can reveal whether graduates from certain institutions earn significantly more, supporting or challenging the idea that more expensive schools lead to better financial outcomes. Analyzing COSTT4_A and FAMINC in relation to affordability and using GRAD_DEBT_MDN_SUPP to evaluate student debt burden will further inform whether the cost of education is justifiable by financial stability after college. 
+   We are also interested in studying the demographic and institutional differences between colleges. For instance, CONTROL_PEPS will facilitate comparisons between public and private institutions, while REGION and STABBR will highlight geographic influences on educational outcomes and costs. Metrics like PCTFLOAN_DCS_POOLED_SUPP and PCTPELL_DCS_POOLED_SUPP will provide insights into financial assistance and socioeconomic disparities among students. Including gender demographics through FEMALE can also reveal differences in educational outcomes based on gender. Ultimately, this comprehensive analysis will address questions about whether colleges operate more as businesses than educational institutions, and whether the current system perpetuates neoliberal values at the expense of educational equity and quality. 
+4. What are the challenges you've resolved or expect to face in using them? Together
    
 Visualizations: Eva, Rachel, Siobhan, Noya
