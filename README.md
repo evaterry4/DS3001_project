@@ -42,5 +42,7 @@ The College Scorecard 2022-2023 dataset provides detailed information on higher 
    We are also interested in studying the demographic and institutional differences between colleges. For instance, CONTROL_PEPS will facilitate comparisons between public and private institutions, while REGION and STABBR will highlight geographic influences on educational outcomes and costs. Metrics like PCTFLOAN_DCS_POOLED_SUPP and PCTPELL_DCS_POOLED_SUPP will provide insights into financial assistance and socioeconomic disparities among students. Including gender demographics through FEMALE can also reveal differences in educational outcomes based on gender. Ultimately, this comprehensive analysis will address questions about whether colleges operate more as businesses than educational institutions, and whether the current system perpetuates neoliberal values at the expense of educational equity and quality. 
 
 4. What are the challenges you've resolved or expect to face in using them? Together
-   
+
+   We have run into some challenges in making sense of the variables and understanding what they measure. The data dictionary can be quite wordy and confusing at times, but taking the time to thoroughly review it has helped us select the most effective variables for our goals and create helpful visualizations.
+
 Visualizations: Eva, Rachel, Siobhan, Noya
